@@ -1,0 +1,14 @@
+127.0.0.1, username, password
+Command ls executed by 127.0.0.1
+Command cd .. executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command cat ju	 executed by 127.0.0.1
+Command cat jumpbox1.conf[C executed by 127.0.0.1
+Command [A[B[A[Bcat jumpbox1.conf executed by 127.0.0.1
+127.0.0.1, username, pssword
+127.0.0.1, username, password
+Command whoami executed by 127.0.0.1
+127.0.0.1, h1, hi
+127.0.0.1, h1, password
+127.0.0.1, h1, 
+127.0.0.1, h1, 
