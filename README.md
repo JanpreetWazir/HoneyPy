@@ -47,21 +47,7 @@ HONEYPY stores logs in the `log_files` directory:
 - `creds_audits.log`: Records IP, username, and password for SSH attempts.
 - `http_audit.log`: Logs IP, username, and password for HTTP access.
 
-## Dashboard
-To visualize captured data in a web-based dashboard:
-```sh
-python3 web_app.py
-```
-Then access `http://127.0.0.1:8050` in a browser.
 
-## Running in Background (Systemd)
-To run HONEYPY as a background service:
-```sh
-sudo cp honeypy.service /etc/systemd/system/
-sudo systemctl daemon-reload
-sudo systemctl enable honeypy.service
-sudo systemctl start honeypy.service
-```
 
 HONEYPY is a lightweight, effective tool for security researchers to analyze unauthorized access attempts.
 
