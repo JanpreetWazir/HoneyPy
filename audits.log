@@ -7,3 +7,8 @@ Client 127.0.0.1 attempted connection with username: h1, password: hi
 Client 127.0.0.1 attempted connection with username: h1, password: password
 Client 127.0.0.1 attempted connection with username: h1, password: 
 Client 127.0.0.1 attempted connection with username: h1, password: 
+Client 127.0.0.1 attempted connection with username: testuser, password: 
+Client 127.0.0.1 attempted connection with username: testuser, password: password
+Client 127.0.0.1 attempted connection with username: testuser, password: password
+Client 127.0.0.1 attempted connection with username: testuser, password: testpass
+Client 127.0.0.1 attempted connection with username: admin, password: secret

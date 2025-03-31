@@ -12,3 +12,11 @@ Command whoami executed by 127.0.0.1
 127.0.0.1, h1, password
 127.0.0.1, h1, 
 127.0.0.1, h1, 
+127.0.0.1, testuser, 
+127.0.0.1, testuser, password
+127.0.0.1, testuser, password
+127.0.0.1, testuser, testpass
+Command ls executed by 127.0.0.1
+Command e executed by 127.0.0.1
+127.0.0.1, admin, secret
+Command ls executed by 127.0.0.1
