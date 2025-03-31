@@ -23,7 +23,11 @@ python3 honeypy.py -a 0.0.0.0 -p 22 --ssh
 
 To run with a specified username and password:
 ```sh
-python3 honeypy.py -a 0.0.0.0 -p 22 --ssh -u admin -w password
+python3 honeypy.py -a 0.0.0.0 -p 22 --ssh -u admin -pw password
+```
+To connect with username and password(from victim's side):
+```sh
+ssh admin@0.0.0.0 -p 22 
 ```
 
 ## Logging
